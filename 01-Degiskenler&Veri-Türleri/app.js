@@ -1,0 +1,1 @@
+//!Degişkenler
