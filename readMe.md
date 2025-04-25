@@ -76,27 +76,5 @@ git clone [repo-url]
 - [JavaScript.info](https://javascript.info/)
 - [W3Schools JavaScript](https://www.w3schools.com/js/)
 
-## 📫 İletişim
-
-- GitHub: [GitHub Profiliniz]
-- LinkedIn: [LinkedIn Profiliniz]
-- Twitter: [Twitter Profiliniz]
-
-## 📜 Lisans
-
-Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
-```
-
-Bu README.md dosyası:
-1. Projenizin amacını net bir şekilde açıklıyor
-2. İçerik bölümünde günlük konuları listeliyor
-3. Her güne kolay erişim için linkler içeriyor
-4. Hedeflerinizi belirtiyor
-5. Kullanılan teknolojileri gösteriyor
-6. Klasör yapısını açıklıyor
-7. Projenin nasıl kullanılacağını anlatıyor
-8. Faydalı kaynaklar ve iletişim bilgileri içeriyor
-
-İlerledikçe bu README.md dosyasını güncelleyebilir ve yeni içerikler ekleyebilirsiniz.
 
         
