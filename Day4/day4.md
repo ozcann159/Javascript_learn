@@ -85,7 +85,7 @@ if (a > 0) {
 }
 ```
 
-```
+
 let weather = 'sunny'
 if (weather == 'rainy') {
     console.log('You need a rain coat')
