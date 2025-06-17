@@ -10,8 +10,8 @@ Bu repo, JavaScript öğrenme sürecimi ve 30 günlük çalışmalarımı içerm
 - [Gün 2: Veri Tipleri](./Day2/day2.md)
 - [Gün 3: Operatörler](./Day3/day3.md)
 - [Gün 4: Koşullu İfadeler](./Day4/day4.md)
-- Gün 5: Diziler
-- Gün 6: Döngüler
+- [Gün 5: Diziler](./Day5/day5.md)
+- [Gün 6: Döngüler](./Day6/day6.md)
 - Gün 7: Fonksiyonlar
 
 ### Hafta 2
